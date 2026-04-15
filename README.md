@@ -1,4 +1,4 @@
-### 👋, I'm Biagio, PhD student @ University of Salerno.
+### 👋, I'm Biagio, Postdoctoral Researcher @ University of Salerno.
 
 - 🔭 I’m currently working on Decentralized Identity Management using Self-Sovereign Identity (SSI) and Verifiable Credentials (VCs); my research interest regards Web Decentralization and Internet of Things (IoT) Security. I'm also working on project related to the optimization of energy efficiency in Simultaneous Wireless Information and Power Transfer (SWIPT), which is a really interesting field for the future.
 
